@@ -1,0 +1,24 @@
+.faixa-promocao {
+    background-color: #dc3545; 
+    color: rgb(255, 255, 255);
+    padding:12px;
+    text-align: center;
+      font-size: 18px;
+    font-weight: 500;
+    border-radius: 6px;
+}
+
+
+.logo {
+      height: 10vh;
+    background-image: url("https://cdn.awsli.com.br/1920x1920/2179/2179202/banner/redragon-9gdf03nxh6.png");
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    display: grid;
+  }
+
+  #contato {
+    background-color: #f00f0f;
+    padding: 40px 0;
+}
